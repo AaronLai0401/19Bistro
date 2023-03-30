@@ -1,0 +1,11 @@
+@keyframes typing {
+    0% {
+        color: var(--secondary-color);
+    }
+    50% {
+        color: var(--bg-color);
+    }
+    100% {
+        color: var(--secondary-color);
+    }
+} /*# sourceMappingURL=style.css.map */
